@@ -1,4 +1,4 @@
-var time = 4;
+var time = 51;
 var score = 0;
 var hitint = 0;
 var clickedNum = 0;
